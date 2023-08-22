@@ -7,4 +7,6 @@
    Open your terminal and navigate to the project's directory, then enter the following command: `python main.py`
 
 ## Project description:
-A simple Python program that has finds all URLs from a website, or Wikipedia articles based on which function is used.
+A simple Python program that has two functionalities:
+1. It lets you gather and save all URLs found on a website.
+2. It lets you gather and save all Wikipedia articles found on a Wikipedia page.
